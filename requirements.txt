@@ -1,5 +1,5 @@
 faster-whisper>=1.2.1
-piper-tts>=1.7.0
+piper-tts>=1.8.0
 pyaudio>=0.2.14
 numpy>=2.5.2
 requests>=2.34.2
